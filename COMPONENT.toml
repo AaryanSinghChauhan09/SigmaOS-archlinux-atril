@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-atril"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-atril component"
+description = "SigmaOS archlinux-atril component"
 upstream = []
 
 [contract]
